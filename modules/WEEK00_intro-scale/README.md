@@ -4,63 +4,63 @@
 
 ---
 
-![left](/Users/dgoodwin/Pictures/Shipping_containers_at_Clyde.jpg)![right](/Users/dgoodwin/Pictures/Kaolin%20particle.jpg)
+![left](imgs/Shipping_containers_at_Clyde.jpg)![right](imgs/Kaolin%20particle.jpg)
 
 from shipping containers to clay particles
 
 ---
 
-![left](/Users/dgoodwin/Pictures/Shipping_containers_at_Clyde.jpg)![right](/Users/dgoodwin/Pictures/Kaolin%20particle.jpg)
+![left](imgs/Shipping_containers_at_Clyde.jpg)![right](imgs/Kaolin%20particle.jpg)
 
 ---
 
-Matter expresses itself in many ways, from the simple emission of physical information to the deliberate use of melody and rhythm. The universe itself may be viewed as a grand symphony of material expressivity. 
+Matter expresses itself in many ways, from the simple emission of physical information to the deliberate use of melody and rhythm. The universe itself may be viewed as a grand symphony of material expressivity.
 
 
 ---
 
 
-![left](/Users/dgoodwin/Pictures/stones-1594837_1280.jpg)![right](/Users/dgoodwin/Pictures/rough-texture.jpg)
+![left](imgs/stones-1594837_1280.jpg)![right](imgs/rough-texture.jpg)
 
 from smooth to rough
 
 ---
 
-![left](/Users/dgoodwin/Pictures/stones-1594837_1280.jpg)![right](/Users/dgoodwin/Pictures/rough-texture.jpg)
+![left](imgs/stones-1594837_1280.jpg)![right](imgs/rough-texture.jpg)
 
 ---
 
-![left](/Users/dgoodwin/Pictures/Canadian_warmth_jpg_2_592×3_888_pixels.png)
-![right](/Users/dgoodwin/Pictures/Drinking_can_ring-pull_tab.jpg)
+![left](imgs/Canadian_warmth_jpg_2_592×3_888_pixels.png)
+![right](imgs/Drinking_can_ring-pull_tab.jpg)
 
 and from warm to cool
 
 ---
 
-![left](/Users/dgoodwin/Pictures/Canadian_warmth_jpg_2_592×3_888_pixels.png)![right](/Users/dgoodwin/Pictures/Drinking_can_ring-pull_tab.jpg)
+![left](imgs/Canadian_warmth_jpg_2_592×3_888_pixels.png)![right](imgs/Drinking_can_ring-pull_tab.jpg)
 
 ---
 
-![top](/Users/dgoodwin/Pictures/geckofoot.png)![fill](/Users/dgoodwin/Pictures/greasy.png)
-![fill](/Users/dgoodwin/Pictures/drylawn.png)![fill](/Users/dgoodwin/Pictures/powderyleaf.png)
+![top](imgs/geckofoot.png)![fill](imgs/greasy.png)
+![fill](imgs/drylawn.png)![fill](imgs/powderyleaf.png)
 
 sticky, greasy, dry, or powdery
 
 ---
 
-![top](/Users/dgoodwin/Pictures/geckofoot.png)![fill](/Users/dgoodwin/Pictures/greasy.png)
-![fill](/Users/dgoodwin/Pictures/drylawn.png)![fill](/Users/dgoodwin/Pictures/powderyleaf.png)
+![top](imgs/geckofoot.png)![fill](imgs/greasy.png)
+![fill](imgs/drylawn.png)![fill](imgs/powderyleaf.png)
 
 ---
 
-![left](/Users/dgoodwin/Pictures/singing-bowl.jpg)![right](/Users/dgoodwin/Pictures/anechoicchamber.png)
+![left](imgs/singing-bowl.jpg)![right](imgs/anechoicchamber.png)
 
 from resonant to dead
 
 ---
 
 
-![left](/Users/dgoodwin/Pictures/singing-bowl.jpg)![right](/Users/dgoodwin/Pictures/anechoicchamber.png)
+![left](imgs/singing-bowl.jpg)![right](imgs/anechoicchamber.png)
 
 ---
 
@@ -68,34 +68,34 @@ The early human artists who tapped into this expressive reservoir for their cave
 
 ---
 
-![left](/Users/dgoodwin/Pictures/elacticbands.png)![right](/Users/dgoodwin/Pictures/shatteredglass.jpg)
+![left](imgs/elacticbands.png)![right](imgs/shatteredglass.jpg)
 
 from elastic to brittle
 
 ---
 
-![left](/Users/dgoodwin/Pictures/elacticbands.png)![right](/Users/dgoodwin/Pictures/shatteredglass.jpg)
+![left](imgs/elacticbands.png)![right](imgs/shatteredglass.jpg)
 
 ---
 
-![left](/Users/dgoodwin/Pictures/massiveboulder.png)![right](/Users/dgoodwin/Pictures/slightfeather.jpg)
+![left](imgs/massiveboulder.png)![right](imgs/slightfeather.jpg)
 
 massive to slight
 
 ---
 
-![left](/Users/dgoodwin/Pictures/massiveboulder.png)![right](/Users/dgoodwin/Pictures/slightfeather.jpg)
+![left](imgs/massiveboulder.png)![right](imgs/slightfeather.jpg)
 
 ---
 
-![left](/Users/dgoodwin/Pictures/shinymatador.png)![right](/Users/dgoodwin/Pictures/dullcoal.png)
+![left](imgs/shinymatador.png)![right](imgs/dullcoal.png)
 
 and shiny to dull
 
 ---
 
 
-![left](/Users/dgoodwin/Pictures/shinymatador.png)![right](/Users/dgoodwin/Pictures/dullcoal.png)
+![left](imgs/shinymatador.png)![right](imgs/dullcoal.png)
 
 
 ---
@@ -104,37 +104,37 @@ These expressive patterns are what scientists call “information.” This term 
 
 ---
 
-![fill](/Users/dgoodwin/Pictures/Natural_Cotton_Scrim_Fabric___onlinefabricstore_net.png)
+![fill](imgs/Natural_Cotton_Scrim_Fabric___onlinefabricstore_net.png)
 
 fibrous,
 
 ---
 
-![fill](/Users/dgoodwin/Pictures/Natural_Cotton_Scrim_Fabric___onlinefabricstore_net.png)
+![fill](imgs/Natural_Cotton_Scrim_Fabric___onlinefabricstore_net.png)
 
 ---
 
-![fill](/Users/dgoodwin/Pictures/fluidcolor.jpg)
+![fill](imgs/fluidcolor.jpg)
 
 fluid,
 
 ---
 
-![fill](/Users/dgoodwin/Pictures/fluidcolor.jpg)
+![fill](imgs/fluidcolor.jpg)
 
 ---
 
-![fill](/Users/dgoodwin/Pictures/metallicplate.jpg)
+![fill](imgs/metallicplate.jpg)
 
 and metallic.
 
 ---
 
-![fill](/Users/dgoodwin/Pictures/metallicplate.jpg)
+![fill](imgs/metallicplate.jpg)
 
 ---
 
-Physical information pervades the world and it is through its continuous production that matter may be said to express itself. 
+Physical information pervades the world and it is through its continuous production that matter may be said to express itself.
 
 [MANUEL DELANDA](https://lebbeuswoods.wordpress.com/2009/01/05/manuel-delanda-matters-4/)
 
