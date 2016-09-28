@@ -4,13 +4,13 @@
 
 ---
 
-![left](imgs/Shipping_containers_at_Clyde.jpg)![right](imgs/Kaolin%20particle.jpg)
+![left](imgs/Shipping_containers_at_Clyde.jpg | width=400)![right](imgs/Kaolin%20particle.jpg | width=400)
 
 from shipping containers to clay particles
 
 ---
 
-![left](imgs/Shipping_containers_at_Clyde.jpg)![right](imgs/Kaolin%20particle.jpg)
+![left](imgs/Shipping_containers_at_Clyde.jpg | width=400)![right](imgs/Kaolin%20particle.jpg | width=400)
 
 ---
 
@@ -20,47 +20,46 @@ Matter expresses itself in many ways, from the simple emission of physical infor
 ---
 
 
-![left](imgs/stones-1594837_1280.jpg)![right](imgs/rough-texture.jpg)
+![left](imgs/stones-1594837_1280.jpg | width=400)![right](imgs/rough-texture.jpg | width=400)
 
 from smooth to rough
 
 ---
 
-![left](imgs/stones-1594837_1280.jpg)![right](imgs/rough-texture.jpg)
+![left](imgs/stones-1594837_1280.jpg | width=400)![right](imgs/rough-texture.jpg | width=400)
 
 ---
 
-![left](imgs/Canadian_warmth_jpg_2_592×3_888_pixels.png)
-![right](imgs/Drinking_can_ring-pull_tab.jpg)
+| ![left](imgs/Canadian_warmth_jpg_2_592×3_888_pixels.png | width=400) | ![right](imgs/Drinking_can_ring-pull_tab.jpg | width=400) |
 
 and from warm to cool
 
 ---
 
-![left](imgs/Canadian_warmth_jpg_2_592×3_888_pixels.png)![right](imgs/Drinking_can_ring-pull_tab.jpg)
+![left](imgs/Canadian_warmth_jpg_2_592×3_888_pixels.png | width=400)![right](imgs/Drinking_can_ring-pull_tab.jpg | width=400)
 
 ---
 
-![top](imgs/geckofoot.png)![fill](imgs/greasy.png)
-![fill](imgs/drylawn.png)![fill](imgs/powderyleaf.png)
+![top](imgs/geckofoot.png | width=400)![fill](imgs/greasy.png | width=400)
+![fill](imgs/drylawn.png | width=400)![fill](imgs/powderyleaf.png | width=400)
 
 sticky, greasy, dry, or powdery
 
 ---
 
-![top](imgs/geckofoot.png)![fill](imgs/greasy.png)
-![fill](imgs/drylawn.png)![fill](imgs/powderyleaf.png)
+![top](imgs/geckofoot.png | width=400)![fill](imgs/greasy.png | width=400)
+![fill](imgs/drylawn.png | width=400)![fill](imgs/powderyleaf.png | width=400)
 
 ---
 
-![left](imgs/singing-bowl.jpg)![right](imgs/anechoicchamber.png)
+![left](imgs/singing-bowl.jpg | width=400)![right](imgs/anechoicchamber.png | width=400)
 
 from resonant to dead
 
 ---
 
 
-![left](imgs/singing-bowl.jpg)![right](imgs/anechoicchamber.png)
+![left](imgs/singing-bowl.jpg | width=400)![right](imgs/anechoicchamber.png | width=400)
 
 ---
 
@@ -68,34 +67,34 @@ The early human artists who tapped into this expressive reservoir for their cave
 
 ---
 
-![left](imgs/elacticbands.png)![right](imgs/shatteredglass.jpg)
+![left](imgs/elacticbands.png | width=400)![right](imgs/shatteredglass.jpg | width=400)
 
 from elastic to brittle
 
 ---
 
-![left](imgs/elacticbands.png)![right](imgs/shatteredglass.jpg)
+![left](imgs/elacticbands.png | width=400)![right](imgs/shatteredglass.jpg | width=400)
 
 ---
 
-![left](imgs/massiveboulder.png)![right](imgs/slightfeather.jpg)
+![left](imgs/massiveboulder.png | width=400)![right](imgs/slightfeather.jpg | width=400)
 
 massive to slight
 
 ---
 
-![left](imgs/massiveboulder.png)![right](imgs/slightfeather.jpg)
+![left](imgs/massiveboulder.png | width=400)![right](imgs/slightfeather.jpg | width=400)
 
 ---
 
-![left](imgs/shinymatador.png)![right](imgs/dullcoal.png)
+![left](imgs/shinymatador.png | width=400)![right](imgs/dullcoal.png | width=400)
 
 and shiny to dull
 
 ---
 
 
-![left](imgs/shinymatador.png)![right](imgs/dullcoal.png)
+![left](imgs/shinymatador.png | width=400)![right](imgs/dullcoal.png | width=400)
 
 
 ---
@@ -104,33 +103,33 @@ These expressive patterns are what scientists call “information.” This term 
 
 ---
 
-![fill](imgs/Natural_Cotton_Scrim_Fabric___onlinefabricstore_net.png)
+![fill](imgs/Natural_Cotton_Scrim_Fabric___onlinefabricstore_net.png | width=400)
 
 fibrous,
 
 ---
 
-![fill](imgs/Natural_Cotton_Scrim_Fabric___onlinefabricstore_net.png)
+![fill](imgs/Natural_Cotton_Scrim_Fabric___onlinefabricstore_net.png | width=400)
 
 ---
 
-![fill](imgs/fluidcolor.jpg)
+![fill](imgs/fluidcolor.jpg | width=400)
 
 fluid,
 
 ---
 
-![fill](imgs/fluidcolor.jpg)
+![fill](imgs/fluidcolor.jpg | width=400)
 
 ---
 
-![fill](imgs/metallicplate.jpg)
+![fill](imgs/metallicplate.jpg | width=400)
 
 and metallic.
 
 ---
 
-![fill](imgs/metallicplate.jpg)
+![fill](imgs/metallicplate.jpg | width=400)
 
 ---
 
