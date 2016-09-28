@@ -10,10 +10,10 @@ this 15oz can of mixed nuts has just travelled from New Jersey to your local mar
 
 start by drawing what you think the nuts are distributed on the inside.
 
-<img src="imgs/caleb1.jpg" width="400px">
-<img src="imgs/elizabeth_waller" width="400px">
-<img src="imgs/julia_chai" width="400px">
-<img src="imgs/shane_rothe" width="400px">
+<img alt="Caleb" src="imgs/caleb_1.jpg" width="400px">
+<img alt="Elizabeth" src="imgs/elizabeth_waller.JPG" width="400px">
+<img alt="Julia" src="imgs/julia_chai.JPG" width="400px">
+<img alt="Shane" src="imgs/shane_rothe.JPG" width="400px">
 
 
 now open the can and describe what you find.
