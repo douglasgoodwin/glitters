@@ -4,6 +4,7 @@
 1. [aggregates](WEEK01_aggregates)
 1. [hard-and-soft](WEEK02_hard-and-soft)
 1. [cool-warm](WEEK03_cool-warm)
+1. [sticky-greasy-dry-powdery](WEEK04_sticky-greasy-dry-powdery)
 1. [resonant](WEEK05_resonant)
 1. [strong](WEEK06_strong)
 1. [elastic](WEEK08_elastic)

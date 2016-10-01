@@ -30,6 +30,7 @@ Some weeks you will bring in an example of something that goes with the week's t
 1. [aggregates](modules/WEEK01_aggregates)
 1. [hard-and-soft](modules/WEEK02_hard-and-soft)
 1. [cool-warm](modules/WEEK03_cool-warm)
+1. [sticky-greasy-dry-powdery](WEEK04_sticky-greasy-dry-powdery)
 1. [resonant](modules/WEEK05_resonant)
 1. [strong](modules/WEEK06_strong)
 1. [elastic](modules/WEEK08_elastic)
