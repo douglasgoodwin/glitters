@@ -14,7 +14,7 @@ This problem has a practical dimension. What is the most efficient way to pack c
 
 There are different kinds of efficiency. There is a difference between the efficiency of stroing the greatest number of cannonballs in a square area (where the first layer is 3x3 or 4x4) and an irregular area. 
 
-Johannes Kepler continued worked on the problem in the 17th century. Kepler's conjecture is that no packing of spheres of the same radius in three dimensions has a density greater than the face-centered (hexagonal) cubic packing. This claim was first published by Johannes Kepler in his monograph "The Six-Cornered Snowflake" (1611) – a treatise inspired by his correspondence with Thomas Harriot.
+Johannes Kepler worked on the problem in the 17th century. Kepler's conjecture is that no packing of spheres of the same radius in three dimensions has a density greater than the face-centered (hexagonal) cubic packing. This claim was first published by Johannes Kepler in his monograph "The Six-Cornered Snowflake" (1611) – a treatise inspired by his correspondence with Thomas Harriot.
 
 The Kepler conjecture says that no arrangement of equally sized spheres filling space has a greater average density than that of the cubic close packing (face-centered cubic) and hexagonal close packing arrangements. The density of these arrangements is around 74.05%.
 
