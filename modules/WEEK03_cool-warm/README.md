@@ -1,11 +1,12 @@
 # glitters oct 05
 
-1. review from last week: 
+1. show the [movie on scale](http://apod.nasa.gov/apod/image/1203/scaleofuniverse_huang.swf?bordercolor=white)
+2. review from last week: 
 2. about investigations: example: on sphere packing
 3. surface tension, capillary forces, and jellies
 4. lab demonstration: melting ice cubes
 4. lecture on cold and warm materials
-5. next week: sticky greasy pry and powdery
+5. next week: sticky greasy dry and powdery
 
 # Lecture on cold and warmth in materials
 
@@ -24,7 +25,7 @@ Why do some materials feel cool to the touch, even at room temperature? Why do o
 questions
 1. what does jelly have in common with setting cement?
 2. what are capillary forces? and how do capillary forces related to surface tension?
-3. why do things exand when heated?
+3. why do things expand when heated?
 4. what is heat?
 
 2. surface tension (surfActants)

@@ -13,6 +13,11 @@ CCP (cubic close packed same as FCC)	74%	12
 
 Efficiency of sphere packing is ~65%. Note that random packing is more efficient than simple cubic packing. It has a lower energy state. 
 
+
+![random packing](imgs/randomspherepack.png)
+
+[source](http://mathematica.stackexchange.com/questions/69649/generate-nonoverlapping-random-circles)
+
 ## SIMPLE CUBIC
 
 Efficiency is 52%.
@@ -21,17 +26,28 @@ Efficiency is 52%.
 
 ## FACE-CENTERED CUBIC
 
-Efficicy is 74%.
+Efficiency is 74%.
+
+![face-centered cubic](imgs/keplersstack.png)
+
+Kepler's conjecture is that no packing of spheres of the same radius in three dimensions has a density greater than the face-centered (hexagonal) cubic packing. 
 
 ## BODY-CENTERED CUBIC
 
-Here is a typical pile of cannon balls like you might see on *The Pirates of the Carribean*:
+## Kissing numbers
+
+The "kissing number problem" asks for the maximal number of blue spheres that can touch a red sphere of the same size in n-dimensional space. 
+
+![where n=2](https://www.evernote.com/l/ADNCe1i6iK5I-6F_i97qEdMQnvTVc-EulG0B/image.png)
+
+[](http://www.ams.org/notices/200408/fea-pfender.pdf)
+
+
+Here is a typical pile of cannon balls like you might see on *The Pirates of the Carribean*. This is the four-sided pyramid I showed you earlier.
 
 ![Pasadena's Pirate park](https://www.evernote.com/l/ADMsZfTLkctKi7AR7Zc4P3qQCQ4heuILBYMB/image.png)
 
-This is the four-sided pyramid I showed you earlier. I 
-
-Johannes Kepler worked on the problem in the 17th century. Kepler's conjecture is that no packing of spheres of the same radius in three dimensions has a density greater than the face-centered (hexagonal) cubic packing. This claim was first published by Johannes Kepler in his monograph "The Six-Cornered Snowflake" (1611) – a treatise inspired by his correspondence with Thomas Harriot.
+Johannes Kepler worked on the problem in the 17th century. This claim was first published by Johannes Kepler in his monograph "The Six-Cornered Snowflake" (1611) – a treatise inspired by his correspondence with Thomas Harriot.
 
 The Kepler conjecture says that no arrangement of equally sized spheres filling space has a greater average density than that of the cubic close packing (face-centered cubic) and hexagonal close packing arrangements. The density of these arrangements is around 74.05%.
 
