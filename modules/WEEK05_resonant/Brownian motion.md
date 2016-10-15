@@ -1,6 +1,15 @@
-# Brownian motion and what holds water together
+# GLITTERS: What attractive force holds water together?
 
-but first: plot the temperature of water with ice cubes. 
+but first: plot the temperature of water with ice cubes.
+
+| time 	| temp. | note 						|
+|--- 	|--- 	| --- 						|
+| 0:00	|	 	| add ice cubes 			|
+| 0:05	|	 	| 	 						|
+| 0:10	|	 	| 	 						|
+| 0:15	|	 	| 	 						|
+| 0:20	|	 	| 	 						|
+| 0:25	|	 	| 	 						|
 
 ## Brownian motion demo
 
