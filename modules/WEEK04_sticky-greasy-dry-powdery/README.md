@@ -2,20 +2,36 @@
 
 1. review from last week
 2. new assignment: sign up to present investigations
+4. LAB: What would paper look like to a flea?
 3. LECTURE on surface tension, surfactants, capillary forces, and other surface qualities
 4. DEMONSTRATION: floating--and sinking--a paperclip
-4. LAB: What would paper look like to a flea?
 5. next week: resonance
 
 
-## review readings
+## transition from last week
 
- - READ: Human climbing with efficiently scaled gecko-inspired dry adhesives
+## what makes something sticky?
+
+1. van der Waals forces
+2. friction
+3. magnetic force
+4. electrostatic force
+5. mechanical forces
+6. gravity
+
+## example sticky things:
+1. tape (van der Waals)
+2. mortar (friction)
+3. magnets (magnetism)
+4. static electricity (electrostatic)
+4. burrs, velcro (mechanical)
+5. the pyramids (gravity)
 
 
 ## questions
-1. what are capillary forces? and how do capillary forces related to surface tension?
-2. surface tension (surfActants)
+1. can any of these forces account for the surface tension we see in water??
+2. what are capillary forces? and how do capillary forces related to surface tension?
+2. what is surface tension (surfActants)
 
 ## themes
 
@@ -26,17 +42,22 @@
 3. dry
 4. powdery
 
-## sticky things:
-1. tape
-2. clay
-3. magnets
-4. 
 
-## what makes something sticky?
+sidebar: what is friction?
 
-1. van der Waals forces
-2. friction
-3. magnetic force
-4. electrostatic force
+## what makes something greasy?
 
-friction demonstration
+1. van der Waals forces (graphite)
+2. hydrophobic (oil)
+3. reduces friction
+4. high viscosity (separating two surfaces)
+5. non-polar
+
+## what makes something dry?
+
+1. dessicant
+2. hydrophilic
+
+## what makes something powdery?
+
+1. powder?

@@ -1,10 +1,12 @@
 # Glitters | PNNL Smartphone Microscope
 
-	clips and glass beads ordered september 17. we will build the microscopes and recreate Hooke's observations of cork cells.
+> clips and glass beads ordered september 17. we will build the microscopes and recreate Hooke's observations of cork cells.
 
+![Leeuwenhoek at work, painting by Ernest Boar Wellcome](imgs/Leeuwenhoek_byErnest-Boar-Wellcome.jpg)
 
+Combine your iPhone or tablet with a 3D-printed clip and glass sphere to create an inexpensive and powerful microscope. 
 
-Combine your iPhone or tablet with a 3D-printed clip and glass sphere to create an inexpensive, yet powerful, microscope. Download the files at the bottom of this page to print your own microscope.
+![The beads and clips arrive](imgs/kit.png)
 
 The microscope slips over the camera lens of the cell phone and is no thicker than a phone case. It’s designed to fit most cell phone brands, including iPhone 4 and 5, Galaxy S3 and S4 phones and iPads. The material cost, not including the printer, is under $1.
 

@@ -1,0 +1,87 @@
+,,Static Coefficient of Friction,
+Material,Against Material,Dry Contact,Lubricated Contact
+Aluminum,Aluminum,1.10,0.30
+Rubber,Asphalt,0.90,
+"Tire, Rubber",Asphalt,0.71,
+Masonry,Brick,0.65,
+Cadmium,Cadmium,0.50,0.05
+Carbon,Carbon,0.15,0.12
+Brake (Composite),Cast Iron,0.40,0.21
+Brass,Cast Iron,0.28,
+Bronze,Cast Iron,0.21,
+Cast Iron,Cast Iron,1.10,0.08
+Copper,Cast Iron,1.05,
+Lead,Cast Iron,0.41,
+Paper,Cast Iron,0.19,
+Tin,Cast Iron,0.31,
+Cadmium,Chromium (Chrome),0.40,0.35
+Chromium (Chrome) ,Chromium (Chrome) ,0.41,0.34
+Colbalt (70¡C),Cobalt,0.30,
+Horseshoe,Concrete,0.67,
+Rubber,Concrete,0.60,
+Cast Iron,Copper,1.05,
+Copper,Copper,1.00,0.08
+Diamond,Diamond,0.10,0.05
+Copper,Glass,0.94,
+Glass,Glass,0.90,0.10
+Graphite,Graphite,0.10,0.10
+"Tire, Rubber",Grass,0.36,
+Cork,Iron,0.35,
+Iron,Iron,1.00,0.15
+Leather,Iron,0.30,
+Leather (Greasy),Iron,0.20,
+Magnesium,Magnesium,0.60,0.08
+Diamond,Metal,0.10,0.10
+Glass,Metal,0.50,0.20
+Leather,Metal,0.60,
+Wood,Metals,0.20,0.20
+"Skin, Human",Metals (63 Ra),0.90,
+Glass,Nickel,0.78,0.57
+Nickel,Nickel,0.70,0.28
+Nylon,Nylon,0.15,
+Oak,Oak,0.61,
+Cast Iron,Oak Wood,0.49,0.08
+Platinum,Platinum,1.20,0.25
+Plexiglas,Plexiglas,0.80,0.80
+Polystyrene,Polystyrene,0.50,0.50
+Concrete ,Rubber,1.00,0.30
+Horseshoe,Rubber,0.28,
+Rubber,Rubber,1.15,
+Rubber (60 A Belt),Rubber (40 A Belt),0.62,
+Rubber (60 A Belt),Rubber (60 A Belt),0.73,
+Silver,Silver,1.40,0.52
+Rubber (60 A Belt),Stainless Steel 316,0.64,
+Aluminum,Steel,0.61,
+Aluminum-Bronze Alloy,Steel,0.46,
+Brass,Steel,0.50,0.19
+Bronze,Steel,,0.16
+Bronze Sintered,Steel,,0.12
+Carbon,Steel,0.14,0.12
+Cast Iron,Steel,0.40,0.21
+Copper,Steel,0.53,
+Copper-Lead Alloy,Steel,0.22,
+Graphite,Steel,0.10,0.10
+Ice,Steel,0.04,
+Phosphor Bronze,Steel,0.35,
+Plexiglas,Steel,0.40,0.40
+Polyethene,Steel,0.20,0.20
+Polystyrene,Steel,0.30,0.30
+Steel,Steel,0.80,0.16
+Teflon,Steel,0.04,0.04
+Tungsten Carbide,Steel,0.40,0.10
+Cadmium,"Steel, Mild",0.46,
+Teflon,Teflon,0.05,0.04
+Rubber (60 A Belt),Tool Steel,0.86,
+Rubber (60 A Belt),Tungsten Carbide,0.62,
+Tungsten Carbide,Tungsten Carbide,0.20,0.12
+Rubber (60 A Belt),UHMW,0.56,
+Rubber (60 A Belt),Urethane,0.67,
+Rubber (60 A Belt),Urethane 50,0.60,
+Rubber (60 A Belt),Urethane 80A,0.70,
+Brick,Wood,0.60,
+Concrete,Wood,0.62,
+Ice,Wood,0.05,
+Leather,Wood,0.30,
+Wood,Wood,0.25,0.20
+Cast Iron,Zinc,0.85,
+Zinc,Zinc,0.60,0.04
