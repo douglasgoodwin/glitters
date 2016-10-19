@@ -1,4 +1,10 @@
-# GLITTERS: RESONANCE
+# GLITTERS: RESONANCE LECTURE
+
+1. Temperature of water with ice cubes in water demo
+2. Brownian Motion demo
+3. question: how might masses of molecules inform resonance?
+4. question: what's holding the water together?
+5. resonance
 
 ![fit](imgs/1920px-Resonance.PNG)
 
@@ -6,7 +12,7 @@
 
 [^1]: [wikipedia](https://en.wikipedia.org/wiki/Resonance)
 
-questions
+**questions**
 
 1. What happens when a material resonates? 
 2. How do you find the resonance of a material?
@@ -29,4 +35,6 @@ All things resonate and everything has natural frequency of vibration, aka its *
 3. attering of a crystal wineglass when exposed to a musical tone of the right pitch (its resonant frequency)
 4. resonance of columns of air in flutes, clarinets and pipe organs
 
-system's natural frequency of vibration
+Demo
+
+Debate
