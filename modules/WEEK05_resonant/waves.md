@@ -1,5 +1,7 @@
 # waves
 
+I stormed through this lecture last week. Let's have a closer look at waves with attention to the seismic waves we are all sure to experience here in Los Angeles.
+
 
 ## body waves
 
@@ -13,7 +15,7 @@ This is the fastest kind of seismic wave, and, consequently, the first to arrive
 
 In a longitudinal wave the particle displacement is parallel to the direction of wave propagation.
 
-[Longitudinal Waves on a Slinky](imgs/Longitudinal Waves on a Slinky.mp4)
+![Longitudinal Waves on a Slinky](imgs/waves_longitudinal.gif)
 
 ### secondary (S) waves
 
@@ -23,7 +25,7 @@ This is the second wave you feel in an earthquake. An S wave is slower than a P 
 
 In a transverse wave the particle displacement is perpendicular to the direction of wave propagation. 
 
-![Transverse Waves on a Slinky](imgs/Transverse Waves on a Slinky.mp4)
+![Transverse Waves on a Slinky](imgs/waves_transverse.gif)
 
 ## surface waves
 
@@ -49,23 +51,24 @@ See [Acoustics and Vibration Animations](http://www.acs.psu.edu/drussell/Demos/w
 
 ## Earthquakes
 
-The speed of seismic waves varies according to the region of the Earth's interior, from less than 6 km
 
-### Wave velocity in common rock types
+### P Wave velocity in common rock types
+
+The speed of seismic waves varies according to the region of the Earth's interior.
 
 | Rocktype	| Velocity [m/s]	| Velocity [mp/h] |
 |----		|----			|----			|
-| Unconsolidated Sandstone	| 4600 - 5200	| 10290 - 11632 |
-| Consolidated Sandstone	| 5800	| 12974 |
-| Shale		| 1800 - 4900	| 4026 -10961 |
-| Limestone	| 5800 - 6400	| 12974 - 14316 |
-| Dolomite	| 6400 - 7300	| 14316 - 16330 |
-| Anhydrite	| 6100			| 13645 |
-| Granite	| 5800 - 6100	| 12974 - 13645 |
-| Gabbro	| 7200			| 16106 |
+| Unconsolidated Sandstone	| 4600 - 5200	| 10,290 - 11,632 |
+| Consolidated Sandstone	| 5,800	| 12,974 |
+| Shale		| 1800 - 4900	| 4,026 -10,961 |
+| Limestone	| 5800 - 6400	| 12,974 - 14,316 |
+| Dolomite	| 6400 - 7300	| 14,316 - 16,330 |
+| Anhydrite	| 6100			| 13,645 |
+| Granite	| 5800 - 6100	| 12,974 - 13,645 |
+| Gabbro	| 7200			| 16,106 |
 
 
-rule of thumb: the number of seconds between the P and S wave times 5 is approximately the distance in miles to the earthquake.
+A rule of thumb: the number of seconds between the Primary and Secondary wave times 5 is approximately the distance in miles to the earthquake.
 
 Imagine a Slinky, held between two people. Pushing it sideways sends a wave down the Slinky*. Each piece of the Slinky moves back and forth sideways (this is the particle motion) while the wave travels the length of the Slinky (this is the wave direction.) As the wave passes through, the Slinky does not change its size, only its shape. If you let go of the top, it will return to its original, cylindrical shape, demonstrating the Slinky's resistance to shear. When one section of Slinky is sheared, its resistance transfers that deformation to the neighboring section, and a wave results. 
 
